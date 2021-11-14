@@ -1,0 +1,410 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rtk 1" tvg-name="Rtk 1" tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png" group-title="SHQIPTARE",RTK 1 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/1
+#EXTINF:-1 tvg-id="Rtk 2" tvg-name="Rtk 3" tvg-logo="http://www.albepg.com/tvlogi/RTK%202.png" group-title="SHQIPTARE",RTK 3 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/2
+#EXTINF:-1 tvg-id="RTK1" tvg-name="RTK 4 UHD" tvg-logo="http://www.albepg.com/tvlogi/RTK%204.png" group-title="SHQIPTARE",RTK 4 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/3
+#EXTINF:-1 tvg-id="RTV21" tvg-name="RTV 21 HD"    tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20HD.png" group-title="SHQIPTARE",RTV 21 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/4
+#EXTINF:-1 tvg-id="KTV" tvg-name="KTV" tvg-logo="http://www.albepg.com/tvlogi/Koha%20Vision%20HD.png" group-title="SHQIPTARE",KTV KOHAVISION HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/5
+#EXTINF:-1 tvg-id="T 7" tvg-name="T7" tvg-logo="http://www.albepg.com/tvlogi/T%207.png" group-title="SHQIPTARE",T7 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/9
+#EXTINF:-1 tvg-id="Klan Kosova" tvg-name="Klan Kosova"  tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png" group-title="SHQIPTARE",KLAN KOSOVA HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/8
+#EXTINF:-1 tvg-id="Alsat-M" tvg-name="Alsat M" tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png" group-title="SHQIPTARE",ALSAT SERIALET ->18.10 DHE 20.10
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/6
+#EXTINF:-1 tvg-id="Dukagjini" tvg-name="Dukagjini" tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png" group-title="SHQIPTARE",DUKAGJINI TV HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/12
+#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/112
+#EXTINF:-1 tvg-id="Klan TV" tvg-name="Klan HD" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV%20HD.png" group-title="SHQIPTARE",KLAN  HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/10
+#EXTINF:-1 tvg-id="Top Channel" tvg-name="Top Channel HD" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel.png" group-title="SHQIPTARE",TOP CHANNEL HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/11
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV SYRI VISION
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/267
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANAL
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/217
+#EXTINF:-1 tvg-id="Vizion Plus" tvg-name="Vizion Plus HD" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png" group-title="SHQIPTARE",VIZION PLUS HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/18
+#EXTINF:-1 tvg-id="Klan Plus" tvg-name="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png" group-title="SHQIPTARE",KLAN PLUS HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/154
+#EXTINF:-1 tvg-ID="RTV 21 MK" tvg-name="RTV 21 MAQEDONIA" tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20MK.png" group-title="SHQIPTARE",RTV 21 MAQEDONIA
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/260
+#EXTINF:0 tvg-id="KlanMaqedonia.al" group-title="Channels",Klan Maqedonia
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/218
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal-D-Drama
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/234
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arta News
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/144
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Channels",ABC News
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/253
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH1
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/164
+#EXTINF:0 tvg-id="ext" group-title="Channels",Syritv
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/200
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroNews Albania
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/152
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroNews-FR
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/213
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 3 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/106
+#EXTINF:0 tvg-id="news24" group-title="Channels",News 24
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/125
+#EXTINF:0 tvg-id="ext" group-title="Channels",Report Tv
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/193
+#EXTINF:0 tvg-id="FaxNews.al" group-title="Channels",Fax News
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/160
+#EXTINF:0 tvg-id="AlJazeeraBalkans.rs" group-title="Channels",Al jazeera Balkans
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/214
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Channels",Cufo
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/15
+#EXTINF:0 tvg-id="baby-tv" group-title="Channels",Baby Tv
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/17
+#EXTINF:0 tvg-id="TringTring.al" group-title="Channels",Tring Tring
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/13
+#EXTINF:0 tvg-id="TipTv.al" group-title="Channels",Tip TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/16
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tring Kids
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/82
+#EXTINF:0 tvg-id="ext" group-title="Channels",Femij
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/204
+#EXTINF:0 tvg-id="Sofia.al" group-title="Channels",Sofia
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/211
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boomerang-Femi
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/212
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 21 Junior
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/205
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Femije
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/80
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV SHQIPONJA
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/14
+#EXTINF:0 tvg-id="RTV21Plus.al" group-title="Channels",RTV 21 PLUS
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/22
+#EXTINF:0 tvg-id="21Popullore.al" group-title="Channels",RTV 21 Popullore
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/23
+#EXTINF:-1 tvg-id="FIRST CHANNEL" tvg-name="FIRST CAHNNEL" tvg-logo="http://www.albepg.com/tvlogi/first%20CHANNEL.png" group-title="SHQIPTARE",FIRST CHANNEL
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/145
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Llapi
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/146
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Mitrovica
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/207
+#EXTINF:0 tvg-id="opoja.tv" group-title="Channels",Tv Opoja
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/24
+#EXTINF:0 tvg-id="on-tv-259" group-title="Channels",On Tv
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/21
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV KOSOVA
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/20
+#EXTINF:0 tvg-id="ZicoTV.rs" group-title="Channels",Zico tv
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/215
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Tema HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/109
+#EXTINF:0 tvg-id="MyMusic.al" group-title="Channels",My Music
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/60
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV liria
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/168
+#EXTINF:0 tvg-id="ext" group-title="Channels",Folk+
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/25
+#EXTINF:0 tvg-id="BBF.al" group-title="Channels",BBF
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/19
+#EXTINF:0 tvg-id="ext" group-title="Channels",Popullore
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/138
+#EXTINF:0 tvg-id="ext" group-title="Channels",Turbo Channe
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/132
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtv Fontana
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/133
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dasma TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/141
+#EXTINF:0 tvg-id="Balkanika.bg" group-title="Channels",Balkanika
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/161
+#EXTINF:0 tvg-id="ext" group-title="Channels",Spin tv
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/147
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Malisheva
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/208
+#EXTINF:0 tvg-id="ext" group-title="Channels",Klan Music
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/142
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Shenja
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/110
+#EXTINF:0 tvg-id="ext" group-title="Channels",Çifteli
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/139
+#EXTINF:0 tvg-id="ext" group-title="Channels",Istogu Channel
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/201
+#EXTINF:0 tvg-id="Elrodi.al" group-title="Channels",ELRODI
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/163
+#EXTINF:0 tvg-id="ext" group-title="Channels",Positive Gold
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/111
+#EXTINF:0 tvg-id="ext" group-title="Channels",Drita TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/149
+#EXTINF:0 tvg-id="SVT1.se" group-title="Channels",SVT1
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/236
+#EXTINF:0 tvg-id="ntv" group-title="Channels",ntv
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/150
+#EXTINF:0 tvg-id="ext" group-title="Channels",Suite TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/151
+#EXTINF:0 tvg-id="ext" group-title="Channels",tv sharri
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/209
+#EXTINF:0 tvg-id="ext" group-title="Channels",tv2 gostivari
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/210
+#EXTINF:0 tvg-id="ext" group-title="Channels",top estrada
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/94
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV GOLD Johaniter
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/264
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Uskana
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/265
+#EXTINF:0 tvg-id="TVFestina.al" group-title="Channels",TV FESTINA
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/266
+#EXTINF:0 tvg-id="ext" group-title="Channels",21 Mix HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/235
+#EXTINF:0 tvg-id="PlusTV.pe" group-title="Channels",Plus TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/250
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Prizreni
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/261
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Diell
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/202
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Vali
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/203
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Opinioni
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/196
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZERI TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/242
+#EXTINF:0 tvg-id="ext" group-title="Channels",SHota TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/76
+#EXTINF:0 tvg-id="ERA.mk" group-title="Channels",ERA TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/113
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB SE
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/121
+#EXTINF:0 tvg-id="ext" group-title="Channels",Besa TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/197
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB UK
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/252
+#EXTINF:0 tvg-id="RTV1.rs" group-title="Channels",RTV1
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/95
+#EXTINF:0 tvg-id="ext" group-title="Channels",Apollon TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/126
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Pollogu
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/256
+#EXTINF:0 tvg-id="TRINGFAMILY.al" group-title="Channels",Tring Family
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/248
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alpo Televizion
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/26
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Channels",cinema1
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/232
+#EXTINF:0 tvg-id="ext" group-title="Channels",cinema2
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/233
+#EXTINF:0 tvg-id="DigiGold.al" group-title="Channels",Digi Gold
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/29
+#EXTINF:0 tvg-id="ext" group-title="Channels",Digi Gold 1
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/30
+#EXTINF:0 tvg-id="ext" group-title="Channels",Digi Gold 2
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/31
+#EXTINF:0 tvg-id="ext" group-title="Channels",Digi Gold 3
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/32
+#EXTINF:0 tvg-id="ext" group-title="Channels",Digi Gold 4
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/33
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="KINEMA",Film Aksion HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/36
+#EXTINF:-1 tvg-id="" tvg-name="Film Nje HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png" group-title="KINEMA",Film Nje HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/34
+#EXTINF:-1 tvg-id="" tvg-name="Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png" group-title="KINEMA",Film Dy HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/35
+#EXTINF:-1 tvg-id="" tvg-name="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png" group-title="KINEMA",Film Thriller
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/38
+#EXTINF:0 tvg-id="TringMax.al" group-title="Channels",Tring Max
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/143
+#EXTINF:-1 tvg-id="Tring Action" tvg-name="Tring Action" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png" group-title="KINEMA",Tring Action HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/257
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png" group-title="KINEMA",Film Hits HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/37
+#EXTINF:-1 tvg-id="" tvg-name="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png" group-title="KINEMA",Film Komedi
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/40
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png" group-title="KINEMA",Film Autor
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/39
+#EXTINF:-1 tvg-id="Jolly HD" tvg-name="Jolly HD" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png" group-title="KINEMA",Tring Jolly HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/44
+#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="Tring Fantasy" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png" group-title="KINEMA",Tring Fantasy
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/42
+#EXTINF:-1 tvg-id="" tvg-name="Smile" tvg-logo="http://www.albepg.com/tvlogi/Smile.png" group-title="KINEMA",Tring Smile
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/165
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png" group-title="KINEMA",Tring Life
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/81
+#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" group-title="KINEMA",Tring Shqip
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/153
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png" group-title="KINEMA",Tring Super HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/41
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky 7 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/254
+#EXTINF:-1 tvg-id="3 Plus" tvg-name="3 Plus" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png" group-title="KINEMA",Tring 3 Plus
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/45
+#EXTINF:0 tvg-id="NovelaTV.pl" group-title="Channels",Novela
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/135
+#EXTINF:0 tvg-id="Living.al" group-title="Channels",Living HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/156
+#EXTINF:0 tvg-id="Kanali7.al" group-title="Channels",Kanali 7
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/198
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/158
+#EXTINF:0 tvg-id="TDC.ca" group-title="Channels",TDC
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/155
+#EXTINF:0 tvg-id="ext" group-title="Channels",TravelINGO
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/162
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOCU
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/124
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV ISLAM
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/123
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",NATIONAL GEO HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/216
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Channels",Tring World
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/49
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Channels",Tring Planet
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/237
+#EXTINF:0 tvg-id="ext" group-title="Channels",Explorer Shkenc
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/48
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Channels",Explorer Natyra
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/47
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="Channels",Explorer Histori
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/46
+#EXTINF:0 tvg-id="ext" group-title="Channels",GEO Histori
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/255
+#EXTINF:0 tvg-id="history-rus" group-title="Channels",History Channel
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/258
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Channels",Showtv
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/167
+#EXTINF:0 tvg-id="Arte.fr" group-title="Channels",Arte FR
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/114
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATVHD-TU
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/166
+#EXTINF:0 tvg-id="ext" group-title="Channels",KanalD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/226
+#EXTINF:0 tvg-id="tv8-lt" group-title="Channels",Tv8
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/227
+#EXTINF:0 tvg-id="Start.tr" group-title="Channels",Star HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/229
+#EXTINF:0 tvg-id="ext" group-title="Channels",NR1 Turk
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/231
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",ZDF
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/220
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",SAT1
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/221
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/222
+#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",RTL2
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/223
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",ProSieben
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/224
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",vox
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/225
+#EXTINF:0 tvg-id="ext" group-title="Channels",Peace TV HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/259
+#EXTINF:0 tvg-id="ext" group-title="Channels",Box National
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/56
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Sport 2
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/58
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Channels",Tring Sport News
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/115
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Sport HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/75
+#EXTINF:0 tvg-id="ext" group-title="Channels",fox 4
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/130
+#EXTINF:0 tvg-id="Fox1HD.mx" group-title="Channels",Fox  1
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/102
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox 2
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/103
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox 3
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/104
+#EXTINF:0 tvg-id="ext" group-title="Channels",free
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/245
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Channels",Tring Comedy
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/195
+#EXTINF:0 tvg-id="RTK.al" group-title="Channels",RTK 1 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/263
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tring Internationa
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/127
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SCI FI
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/28
+#EXTINF:0 tvg-id="Muse.al" group-title="Channels",Muse
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/43
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Box
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/57
+#EXTINF:0 tvg-id="FilmboxPremium.cz" group-title="Channels",FILMBOX PREMIUM
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/96
+#EXTINF:0 tvg-id="FilmboxFamily.cz" group-title="Channels",FILMBOX FAMILY
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/97
+#EXTINF:0 tvg-id="FilmboxPlus.cz" group-title="Channels",FILMBOX PLUS
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/98
+#EXTINF:0 tvg-id="FilmboxExtra.pl" group-title="Channels",FILMBOX EXTRA
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/99
+#EXTINF:0 tvg-id="film-box-arthouse" group-title="Channels",FILMBOX ARTHOUSE
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/100
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV ELKALEM
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/148
+#EXTINF:0 tvg-id="ClickTV.al" group-title="Channels",Click TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/129
+#EXTINF:0 tvg-id="StarHD.tr" group-title="Channels",Star tv tr
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/116
+#EXTINF:0 tvg-id="ext" group-title="Channels",testt
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/55
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 3 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/77
+#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",Sixx HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/79
+#EXTINF:0 tvg-id="MTV2.mk" group-title="Channels",MRT 2
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/88
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 1 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/105
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Channels",TRT 1 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/107
+#EXTINF:0 tvg-id="ZoneClub.pl" group-title="Channels",Club TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/128
+#EXTINF:0 tvg-id="ext" group-title="Channels",Amol TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/140
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",Sat 1 Gold HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/194
+#EXTINF:0 tvg-id="ext" group-title="Channels",Foxtr
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/230
+#EXTINF:0 tvg-id="Rai3.it" group-title="Channels",Rai 3 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/238
+#EXTINF:0 tvg-id="Rai2.it" group-title="Channels",Rai 2 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/239
+#EXTINF:0 tvg-id="Extra.gr" group-title="Channels",Extra
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/251
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM1
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/249
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 5 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/243
+#EXTINF:0 tvg-id="ext" group-title="Channels",D-TV
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/244
+#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",Rai 1 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/240
+#EXTINF:0 tvg-id="ext" group-title="Channels",HRT 4 HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/241
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hi Music
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/54
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVELAS HD
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/89
+#EXTINF:0 tvg-id="ext" group-title="Channels",FREE CHANAL2
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/90
+#EXTINF:0 tvg-id="ext" group-title="Channels",FREE CHANAL3
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/91
+#EXTINF:0 tvg-id="ext" group-title="Channels",FREE CHANAL4
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/92
+#EXTINF:0 tvg-id="ext" group-title="Channels",FREE CHANAL5
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/93
+#EXTINF:0 tvg-id="ext" group-title="Channels",ISP Musix
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/78
+#EXTINF:0 tvg-id="ext" group-title="Channels",ISP SHahirat
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/157
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",BT SPORT 1
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/51
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",BT SPORT 2
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/52
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",BT SPORT 3
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/53
+#EXTINF:0 tvg-id="ext" group-title="Channels",Big Brother 1
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/120
+#EXTINF:0 tvg-id="ext" group-title="Channels",Big Brother 2
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/119
+#EXTINF:0 tvg-id="ntv" group-title="Channels",ntv.
+http://iptv1.qyshdush.com:8080/SEJDISOPJANI/1234578/7
+
